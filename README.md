@@ -1,5 +1,5 @@
 # CRUD-Clientes
-Projeto desenvolvido para a disciplina de Engenharia de Software III
+Crud de clientes. Projeto desenvolvido para a disciplina de Engenharia de Software III
 
 # Tecnologias e padrões de projeto
 Desenvolvido na plataforma Java Web, utilizando Servlets e JSPs.
