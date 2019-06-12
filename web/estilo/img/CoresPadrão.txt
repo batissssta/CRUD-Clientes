@@ -1,0 +1,2 @@
+Background-color: #DADADA;
+Font-color: RGB(0,181,173);
